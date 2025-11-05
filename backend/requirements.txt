@@ -1,0 +1,11 @@
+# requirements.txt
+
+# Flask framework and tools
+Flask==3.0.3
+Flask-CORS==4.0.1  # Essential for connecting the frontend (React) and backend (Flask)
+
+# HTTP requests library for calling the external Mandi API
+requests==2.32.3
+
+# Other packages that might be helpful in a modern Python environment
+# pip-tools or poetry are recommended for managing dependencies long-term.
