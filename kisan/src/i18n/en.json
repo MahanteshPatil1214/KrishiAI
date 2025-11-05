@@ -1,0 +1,11 @@
+{
+  "home": {
+    "title": "Welcome to Krishi-Astra",
+    "subtitle": "Empowering Farmers with AI-Powered Agriculture"
+  },
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "market": "Market"
+  }
+}
